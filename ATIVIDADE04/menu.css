@@ -1,0 +1,31 @@
+.inicio:hover{
+    color: green;
+    font-size: large;
+
+
+}
+
+.sobre:hover{
+    color: yellow;
+    font-size: large;
+}
+
+.contato:hover{
+    color: deeppink;
+    font-size: large;
+}
+
+body{
+    background-color:darkslategray;
+}
+
+nav ul {
+  display:flex;
+  list-style:inside; /* Remove os marcadores de lista */
+  padding: 0;/* Remove o preenchimento padrão */
+  margin: 1; /* Remove a margem padrão */
+}
+
+nav li {
+  margin-right: 9px; /* Adiciona um espaçamento entre os itens */
+}
