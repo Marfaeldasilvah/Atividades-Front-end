@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(5, 23, 101);
+}
+
+.cartao {
+     color: azure;
+
+  border-radius: 15px;
+  border: 2px solid #f4f4f4; 
+  
+  padding: 50px;
+
+  text-align: center;
+
+  
+  width: 400px; 
+  margin: 50px auto; 
+
+}
